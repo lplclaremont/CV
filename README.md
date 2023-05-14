@@ -1,6 +1,6 @@
-## Your Name
+## Louis Claremont
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a full stack developer and natural problem solver who loves finding beauty and order in complexity. My journey has included a Mathematics degree from the University of Bristol, scaling Bulgarian mountains and cycling the streets of Oxford. I have entered the world of tech as it will provide a continually stimulating and nourishing environment to develop and hone my skillset.
 
 ## Projects
 

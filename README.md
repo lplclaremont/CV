@@ -6,16 +6,15 @@ I am a full stack developer and natural problem solver who loves finding beauty 
 [**Acebook**]: https://github.com/lplclaremont/trelloship_of_the_string
 [**MakersBnB**]: https://github.com/lplclaremont/makersbnb
 [**WhateverTheWeather**]: https://github.com/lplclaremont/ep3-raining-mern
+[**Bowling Scorecard**]: https://github.com/lplclaremont/bowling-scorecard
 
-● A social media website which allows users to make posts, comments, likes and uses authentication with JWTs.
-● This was built upon an existing MERN codebase of which we first had to decipher since we had never used React or MongoDB before.
-● My main contributions were the like button backend, adding more details to the post component and cypress tests.
 
 | Name                         | Description                                            | Tech/tools                 |
 | ---------------------------- | ------------------------------------------------------ | -------------------------- |
-| [**Acebook**]                |- A 'facebook' type social media app with posts, likes, comments, user icons and a Lord of the Rings theme | React, Express, Node.js, MongoDB, Cypress, Jest, CSS   |
+| [**Acebook**]                | A 'facebook' type social media app with posts, likes, comments, user icons and a Lord of the Rings theme | React, Express, Node, MongoDB, Cypress, Jest, CSS   |
 | [**MakersBnB**]              | An 'Airbnb' clone with property listings, adding dates, booking requests and confirming bookings and a mailer function to notify users of activity.                                      | Ruby, Sinatra, RSpec, PostgreSQL, HTML, CSS                       |
-| [**WhateverTheWeather**]     | A webapp to do y.                                      | Ruby                       |
+| [**WhateverTheWeather**]     | A single page web app which lets a user select a holiday destination and some activities, then allocates each activity to the most appropriate day based on the weather forecast.                                      | React, Express, Node, Jest, Cypress                       |
+| [**Bowling Scorecard**]      | Current project which began with a backend which calculates a bowling score for a single game and I am adding a frontend to allow users to fill in each bowling frame and see a running total of their score. | Express, Node, Jest, React |
 
 ## Work Experience
 

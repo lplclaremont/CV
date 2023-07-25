@@ -11,14 +11,12 @@ I am a full stack developer and natural problem solver who loves finding beauty 
 ● This was built upon an existing MERN codebase of which we first had to decipher since we had never used React or MongoDB before.
 ● My main contributions were the like button backend, adding more details to the post component and cypress tests.
 
-| Name                         | Description                                                                                                       | Tech/tools                 |
-| ---------------------------- | --------------------------------------------------------------------------------------------------              | -------------------------- |
-| [**Acebook**]                | - A social media site which allows users to make posts, comments, likes and uses JWTs for authentication<br>  | React, Express, Node.js, MongoDB, Cypress, Jest, CSS |
-|                              |   - Built upon an existing MERN codebase of which we first had to decipher since we had never used React or MongoDB before.<br> |                            |
-|                              |   - My main contributions were the like button backend, adding details to post component and cypress tests.      |                            |
-| [**MakersBnB**]              | A webapp to do y.                                                                                                 | Ruby                       |
-| [**WhateverTheWeather**]     | A webapp to do y.                                                                                                 | Ruby                       |
-
+| Name                         | Description                                            | Tech/tools                 |
+| ---------------------------- | ------------------------------------------------------ | -------------------------- |
+| [**Acebook**]                |- A 'facebook' type social media app with posts, likes, comments, user icons and a Lord of the Rings theme | React, Express, Node.js, MongoDB, Cypress, Jest, CSS   |
+| ---------------------------- | ------------------------------------------             | -----------------------    |
+| [**MakersBnB**]              | A webapp to do y.                                      | Ruby                       |
+| [**WhateverTheWeather**]     | A webapp to do y.                                      | Ruby                       |
 
 ## Work Experience
 

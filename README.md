@@ -13,15 +13,18 @@ I am a full stack developer and natural problem solver who loves finding beauty 
 | ---------------------------- | ------------------------------------------------------ | -------------------------- |
 | [**Acebook**]                | A 'facebook' type social media app with posts, likes, comments, user icons and a Lord of the Rings theme | React, Express, Node, MongoDB, Cypress, Jest, CSS   |
 | [**MakersBnB**]              | An 'Airbnb' clone with property listings, adding dates, booking requests and confirming bookings and a mailer function to notify users of activity.                                      | Ruby, Sinatra, RSpec, PostgreSQL, HTML, CSS                       |
-| [**WhateverTheWeather**]     | A single page web app which lets a user select a holiday destination and some activities, then allocates each activity to the most appropriate day based on the weather forecast.                                      | React, Express, Node, Jest, Cypress                       |
+| [**WhateverTheWeather**]     | A single page web app which lets a user select a holiday destination and some activities, then allocates each activity to the most appropriate day based on the weather forecast.                                      | React, Express, Node, Jest, Cypress, CSS                       |
 | [**Bowling Scorecard**]      | Current project which began with a backend which calculates a bowling score for a single game and I am adding a frontend to allow users to fill in each bowling frame and see a running total of their score. | Express, Node, Jest, React |
 
-## Work Experience
+## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Makers Academy** (March 2023 to July 2023)  
+Software developer student
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Responsible for our own working hours, for example I would begin at around 8:00am, take part in stand-up meetings at 9:30, pair program in the afternoon and finish coding at around 5pm.
+- We focussed greatly on collaborative work, which has embedded excellent communication skills and a team mentality into my process. As in the above 'Acebook' project, we were having to negotiate different team member's levels of understandings of the codebase and therefore rotated pairs often and completed pull requests all together to ensure every team member had a chance to clarify anything about the code they may not have understood.
+- Learning to test drive my code is a habit I have very much enjoyed as it allows me to confidently take on seemingly complex problems by breaking them down into easier managable steps. For example, the 'Bowling Scorecard' project, above demonstrates some complex logic in the scorecard.js and frame.js files to allow for strike / spare bonuses to be added, but my tests followed a very clear and logical progression in complexity.
+- I've gained invaluable experience in agile methodologies during engineering projects (stand up meetings, spring planning, retros), allowing us to delegate tasks between the group and have used git branching and pull requests to combine our work.
 
 **Company Name** (start-date to end-date)  
 _Your job title_

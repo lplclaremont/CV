@@ -3,11 +3,28 @@
 I am a full stack developer and natural problem solver who loves finding beauty and order in complexity. My journey has included a Mathematics degree from the University of Bristol, scaling Bulgarian mountains and cycling the streets of Oxford. I have entered the world of tech as it will provide a continually stimulating and nourishing environment to develop and hone my skillset.
 
 ## Projects
+[**Acebook**]: https://github.com/lplclaremont/trelloship_of_the_string
+[**MakersBnB**]: https://github.com/lplclaremont/makersbnb
+[**WhateverTheWeather**]: https://github.com/lplclaremont/ep3-raining-mern
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+● A social media website which allows users to make posts, comments, likes and uses authentication with JWTs.
+● This was built upon an existing MERN codebase of which we first had to decipher since we had never used React or MongoDB before.
+● My main contributions were the like button backend, adding more details to the post component and cypress tests.
+
+| Name                         | Description                                | Tech/tools                |
+| ---------------------------- | ------------------------------------------ | -----------------------   |
+| [**Acebook**]                |● A social media website which allows users | React, Express, Node.js,  |
+|                              |  to make posts, comments, likes and uses   | MongoDB, Cypress, Jest,   |
+|                              |  authentication with JWTs.                 | CSS                       |
+|                              |● Built upon an existing MERN codebase of   |                           |
+|                              |  which we first had to decipher since we   |                           |
+|                              |  had never used React or MongoDB before.   |                           |
+|                              |● My main contributions were the like button|                           |
+|                              |  backend, adding more details to post      |                           |
+|                              |  component and cypress tests               |                           |
+| ---------------------------- | ------------------------------------------ | -----------------------   |
+| [**MakersBnB**]              | A webapp to do y.                          | Ruby                      |
+| [**WhateverTheWeather**]     | A webapp to do y.                          | Ruby                      |
 
 ## Work Experience
 

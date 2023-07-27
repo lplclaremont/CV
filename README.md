@@ -42,8 +42,6 @@ Consider skills relevent to software development. Then consider projects you've 
 Here's an example
 
 #### Communication
-During my time working in a ski chalet in Bulgaria, I honed my communication skills which were necessary to successfully work as part of a team to manage a busy workload. Clear and concise communication between my colleagues was vital to ensure stock was kept up to date, and we would have to cook food for other guests across all chalets, so this meant summarising the quantities and dietary requirements to colleagues.
-
 During my time at Oxwash I'd often have to communicate between customers and our operations team. As a delivery cyclist, we would represent the company at people's homes and so providing a pleasant experience for them was key. I'd always answer questions they may have had about our process and if there was anything I did not know, I'd contact the team in the office and relay any information I could back to the customer. Training new staff members was also part of this role that I really enjoyed. I'd have new members of staff shadow me and therefore needed to convey the appropriate amount of information to make them comfortable and build up their confidence on the bicycles.
 This necessity for concise and clear communication is also demonstrated in my work as a cook in ski chalets. We'd have to negotiate between chalets to organise the week's food order based on guest numbers and also would delegate tasks between our team at the start of each day in order to most efficiently get the work done.
 

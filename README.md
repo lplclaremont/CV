@@ -54,7 +54,7 @@ Cycle courier
 - This self motivated work was tiring but enjoyable as picking your deliveries and completing them efficiently provided lovely gratification, comparable to choosing a ticket in a software project and moving it to 'completed' when finished.
 
 **Matthew Arnold School** (November 2012 - December 2018)      
-Cleaner Part-time
+Cleaner part-time
 
 - Responsible for my own department of which I would maintain to a high standard during term times for 2 hours each week day.
 - I would also take on extra work in the holidays in order to conduct a deeper clean of the whole school, which meant learning to use various machinery.
@@ -65,15 +65,15 @@ Cleaner Part-time
 #### Communication
 During my time at Oxwash I'd often have to communicate between customers and our operations team. As a delivery cyclist, we would represent the company at people's homes and so providing a pleasant experience for them was key. I'd always answer questions they may have had about our process and if there was anything I did not know, I'd contact the team in the office and relay any information I could back to the customer. Training new staff members was also part of this role that I really enjoyed. I'd have new members of staff shadow me and therefore needed to convey the appropriate amount of information to make them comfortable and build up their confidence on the bicycles. This is necessary for talking through complex coding problems and gaining a greater shared understanding.
 
+#### Curious problem solver
+During my time at Bristol University, I found that I preferred pure maths modules such as Set Theory and Number Theory. These subjects lend themselves to more eloquent and theoretical problems. Constructing a proof of a theorem can often be done in many ways, which employs the use of creative solutions, much like how a coding problem can be solved in various ways. For example, a proof by induction as a way of proving something relating to integer numbers is something I am fond of, and noticing the relation to this concept of 'induction' with the concept of 'recursion' in programming was a fascinating discovery.
+
 #### Driven
-I achieved the highest number of deliveries during a two day period at my work for Oxwash. We had an evening slot of 5-7pm and when our evening cyclist was off, I'd frequently extend my working day to cover for them.
+Often I would go above and beyond in my role at Oxwash, once completing the highest number of deliveries during a two day period. We had an evening slot of 5-7pm and when our evening cyclist was off, I'd frequently extend my working day to cover for them.
 In my cleaning role when I was a student at Matthew Arnold School, I would do full weeks of voluntary overtime during holidays which demonstrates the strong work ethic I have kept from an early age.
 I'm also very determined to develop new skills in my personal life, recently having restored a vintage road bicycle by independently learning how to take intricate parts apart and replace them.
 
-#### Independent problem solver
-During my time at Bristol University, I found that I preferred pure mathematics modules such as Set Theory and Number Theory. These modules lend themselves to a more analytical and eloquent style of problem. Being able to generalise a theorem
-
-#### Strong attention to detail
+#### Attention to detail
 
 
 ## Education

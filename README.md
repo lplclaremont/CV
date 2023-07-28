@@ -32,14 +32,14 @@ Cycle courier
 - Collecting and delivering laundry from customers and businesses on an electric cargo bike, cycling around 30-40 miles a day.
 - Having to work dynamically with the laundry team in order to get items ready and delivered on time. This team mentality and achieving group goals is something I have maintained in my engineering projects.
 
-**I. Stracy Gardening** (May 2021 - November 2021)
+**I. Stracy Gardening** (May 2021 - November 2021)  
 Gardener
 
 - Working alongside a self employed gardener, mostly doing maintenance of residential gardens in and around Oxford.
 - By tidying up flower beds or neatening lawns I would come away with wonderful satisfaction, which is comparable to the feeling of refactoring a messy piece of code.
 - The attention to detail required when working for clients with high standards is something I have taken forward with me into my software practice.
 
-**Snomads** (December 2019 - March 2020)
+**Snomads** (December 2019 - March 2020)    
 Chef and Chalet Host
 
 - Running and catering for up to 22 guests in a ski resort chalet in Bulgaria, making breakfast and 3 course dinners 6 days a week.
@@ -47,7 +47,7 @@ Chef and Chalet Host
 - Task delegation based on our skills and likes was important, for example my colleague would make most of the cooked breakfasts in the morning as I would begin making bread and doing food preparation for evening meals.
 - Completing individual tasks but working toward a collective goal is something I love about working in software development teams.
 
-**Deliveroo** (January 2021 - May 2021)
+**Deliveroo** (January 2021 - May 2021) 
 Cycle courier
 
 - Delivering food orders from restaurant to customer by bike.

@@ -47,13 +47,13 @@ Chef and Chalet Host
 - Task delegation based on our skills and likes was important, for example my colleague would make most of the cooked breakfasts in the morning as I would begin making bread and doing food preparation for evening meals.
 - Completing individual tasks but working toward a collective goal is something I love about working in software development teams.
 
-**Deliveroo** (January 2021 - May 2021) 
+**Deliveroo** (January 2021 - May 2021)     
 Cycle courier
 
 - Delivering food orders from restaurant to customer by bike.
 - This self motivated work was tiring but enjoyable as picking your deliveries and completing them efficiently provided lovely gratification, comparable to choosing a ticket in a software project and moving it to 'completed' when finished.
 
-**Matthew Arnold School** (November 2012 - December 2018)
+**Matthew Arnold School** (November 2012 - December 2018)      
 Cleaner Part-time
 
 - Responsible for my own department of which I would maintain to a high standard during term times for 2 hours each week day.

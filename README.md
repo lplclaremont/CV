@@ -44,14 +44,14 @@ Chef and Chalet Host
 
 - Running and catering for up to 22 guests in a ski resort chalet in Bulgaria, making breakfast and 3 course dinners 6 days a week.
 - I worked closely in a small kitchen with just one other and so communication was key to ensuring we managed busy days efficiently and could bring each other up when we were feeling burnt out.
-- Task delegation based on our skills and likes was important, for example my colleague would make most of the cooked breakfasts in the morning as I would begin making bread and doing food preparation for evening meals.
+- Task delegation based on our skills and likes was important, for example, my colleague would make most of the cooked breakfasts in the morning as I would begin making bread and doing food preparation for evening meals.
 - Completing individual tasks but working toward a collective goal is something I love about working in software development teams.
 
 **Deliveroo** (January 2021 - May 2021)     
 Cycle courier
 
 - Delivering food orders from restaurant to customer by bike.
-- This self motivated work was tiring but enjoyable as picking your deliveries and completing them efficiently provided lovely gratification, comparable to choosing a ticket in a software project and moving it to 'completed' when finished.
+- This self-motivated work was tiring but enjoyable as picking your deliveries and completing them efficiently provided lovely gratification, comparable to choosing a ticket in a software project and moving it to 'completed' when finished.
 
 **Matthew Arnold School** (November 2012 - December 2018)      
 Cleaner part-time
@@ -66,15 +66,15 @@ Cleaner part-time
 During my time at Oxwash I'd often have to communicate between customers and our operations team. As a delivery cyclist, we would represent the company at people's homes and so providing a pleasant experience for them was key. I'd always answer questions they may have had about our process and if there was anything I did not know, I'd contact the team in the office and relay any information I could back to the customer. Training new staff members was also part of this role that I really enjoyed. I'd have new members of staff shadow me and therefore needed to convey the appropriate amount of information to make them comfortable and build up their confidence on the bicycles. This is necessary for talking through complex coding problems and gaining a greater shared understanding.
 
 #### Curious problem solver
-During my time at Bristol University, I found that I preferred pure maths modules such as Set Theory and Number Theory. These subjects lend themselves to more eloquent and theoretical problems. Constructing a proof of a theorem can often be done in many ways, which employs the use of creative solutions, much like how a coding problem can be solved in various ways. For example, a proof by induction as a way of proving something relating to integer numbers is something I am fond of, and noticing the relation to this concept of 'induction' with the concept of 'recursion' in programming was a fascinating discovery.
+During my time at Bristol University, I found that I preferred pure maths modules such as Set Theory and Number Theory. These subjects lend themselves to more eloquent and theoretical problems. Constructing a proof of a theorem can often be done in many ways, which employs the use of creative solutions, much like how a coding problem can be solved in various ways. For example, a proof by induction as a way of proving something relating to integer numbers is something I am fond of, and noticing the relation to this concept of 'induction' with the concept of 'recursion' in programming was a fascinating realisation.
 
 #### Driven
 Often I would go above and beyond in my role at Oxwash, once completing the highest number of deliveries during a two day period. We had an evening slot of 5-7pm and when our evening cyclist was off, I'd frequently extend my working day to cover for them.
 In my cleaning role when I was a student at Matthew Arnold School, I would do full weeks of voluntary overtime during holidays which demonstrates the strong work ethic I have kept from an early age.
-I'm also very determined to develop new skills in my personal life, recently having restored a vintage road bicycle by independently learning how to take intricate parts apart and replace them.
+I'm also very determined to develop new skills in my personal life, for example, recently restoring a vintage road bike by independently learning how to take intricate parts apart and replace them.
 
 #### Attention to detail
-
+I pride myself on doing things right and to the best of my ability. Whilst working in the ski chalets, serving beautiful looking food was high on our priorities. Plating up 20 + meals each evening required a lot of close focus since we were dealing with many elements for each course and each plate had to look great! This care added to a wonderful all round experience for the guests, who appreciated the small details. I thoroughly enjoy delving deeply into task and perfecting my craft, which is what I love most about writing code, making it neat and efficient and beautiful.
 
 ## Education
 
@@ -84,5 +84,4 @@ I'm also very determined to develop new skills in my personal life, recently hav
 - 2:1
 
 ## Hobbies
-<!-- 
-Any cool stuff that makes you a super part of a software development team -->
+I enjoy cycling, playing and watching live music, climbing and circus tricks.

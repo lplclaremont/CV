@@ -68,7 +68,7 @@ In my cleaning role when I was a student at Matthew Arnold School, I would do fu
 I'm also very determined to develop new skills in my personal life, for example, recently restoring a vintage road bike by independently learning how to take intricate parts apart and replace them.
 
 #### Attention to detail
-I pride myself on doing things right and to the best of my ability. Whilst working in the ski chalets, serving beautiful looking food was high on our priorities. Plating up 20 + meals each evening required a lot of close focus since we were dealing with many elements for each course and each plate had to look great! This care added to a wonderful all round experience for the guests, who appreciated the small details. I thoroughly enjoy delving deeply into task and perfecting my craft, which is what I love most about writing code, making it neat and efficient and beautiful.
+I pride myself on doing things right and to the best of my ability. Whilst working in the ski chalets, serving beautiful looking food was high on our priorities. Plating up 20 + meals each evening required a lot of close focus since we were dealing with many elements for each course and each plate had to look great! This care added to a wonderful all round experience for the guests, who appreciated the small details and gave us a sense of pride and satisfaction over our work. I thoroughly enjoy delving deeply into task and perfecting my craft, which is what I love most about writing code, making it neat and efficient and beautiful.
 
 ## Education
 

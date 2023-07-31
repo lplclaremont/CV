@@ -20,7 +20,6 @@ I am a full stack developer and natural problem solver who loves finding beauty 
 
 **Makers Academy** (March 2023 to July 2023)  
 Student software developer
-
 - Responsible for our own working hours, for example I would begin at around 8:00am, take part in stand-up meetings at 9:30, pair program in the afternoon and finish coding at around 5pm.
 - We focused greatly on collaborative work, which has embedded excellent communication skills and a team mentality into my process. In the above 'Acebook' project, we were having to negotiate different team members' levels of understandings of the codebase and therefore rotated pairs often and completed pull requests all together to ensure every team member had a chance to clarify anything about the code they may not have understood.
 - Learning to test drive my code was instilled at Makers which allows me to confidently take on seemingly complex problems by breaking them down into easier manageable steps. For example, the 'Bowling Scorecard' project above demonstrates some complex logic in the scorecard.js and frame.js files (to allow for strike / spare bonuses to be added) but my tests follow a very clear and logical progression in complexity.
@@ -28,20 +27,17 @@ Student software developer
 
 **Oxwash** (November 2021 to October 2022)  
 Cycle courier
-
 - Collecting and delivering laundry from customers and businesses on an electric cargo bike, cycling around 30-40 miles a day.
 - Having to work dynamically with the laundry team in order to get items ready and delivered on time. This team mentality and achieving group goals is something I have maintained in my engineering projects.
 
 **I. Stracy Gardening** (May 2021 - November 2021)  
 Gardener
-
 - Working alongside a self employed gardener, mostly doing maintenance of residential gardens in and around Oxford.
 - By tidying up flower beds or neatening lawns I would come away with wonderful satisfaction, which is comparable to the feeling of refactoring a messy piece of code.
 - The attention to detail required when working for clients with high standards is something I have taken forward with me into my software practice.
 
 **Snomads** (December 2019 - March 2020)    
 Chef and Chalet Host
-
 - Running and catering for up to 22 guests in a ski resort chalet in Bulgaria, making breakfast and 3 course dinners 6 days a week.
 - I worked closely in a small kitchen with just one other and so communication was key to ensuring we managed busy days efficiently and could bring each other up when we were feeling burnt out.
 - Task delegation based on our skills and likes was important, for example, my colleague would make most of the cooked breakfasts in the morning as I would begin making bread and doing food preparation for evening meals.
@@ -49,13 +45,11 @@ Chef and Chalet Host
 
 **Deliveroo** (January 2021 - May 2021)     
 Cycle courier
-
 - Delivering food orders from restaurant to customer by bike.
 - This self-motivated work was tiring but enjoyable as picking your deliveries and completing them efficiently provided lovely gratification, comparable to choosing a ticket in a software project and moving it to 'completed' when finished.
 
 **Matthew Arnold School** (November 2012 - December 2018)      
 Cleaner part-time
-
 - Responsible for my own department of which I would maintain to a high standard during term times for 2 hours each week day.
 - I would also take on extra work in the holidays in order to conduct a deeper clean of the whole school, which meant learning to use various machinery.
 - We'd begin these full days with an organisational meeting to decide what would be done and by who, a practice which can be applied to software environment, requiring clear task delegation and organisation.

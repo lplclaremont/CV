@@ -20,10 +20,10 @@ I am a full stack developer and natural problem solver who loves finding beauty 
 
 **Makers Academy** (March 2023 to July 2023)  
 Student software developer
-- Responsible for our own working hours, for example I would begin at around 8:00am, take part in stand-up meetings at 9:30, pair program in the afternoon and finish coding at around 5pm.
-- We focused greatly on collaborative work, which has embedded excellent communication skills and a team mentality into my process. In the above 'Acebook' project, we were having to negotiate different team members' levels of understandings of the codebase and therefore rotated pairs often and completed pull requests all together to ensure every team member had a chance to clarify anything about the code they may not have understood.
-- Learning to test drive my code was instilled at Makers which allows me to confidently take on seemingly complex problems by breaking them down into easier manageable steps. For example, the 'Bowling Scorecard' project above demonstrates some complex logic in the scorecard.js and frame.js files (to allow for strike / spare bonuses to be added) but my tests follow a very clear and logical progression in complexity.
-- I've gained invaluable experience in agile methodologies during engineering projects (stand up meetings, sprint planning, retros), allowing us to delegate tasks between the group and have gained great experience in git branching and pull requests.
+- Emphasis on collaborative and pair programming, encouraging excellent articulation and communication of the code we produce.
+- We followed strict agile processes during engineering projects in order to delegate tasks between the group and used git branching and pull requests to combine our work.
+- Learning to test drive my code was instilled at Makers which allows me to confidently take on seemingly complex problems by breaking them down into easier, manageable steps. E.g - the 'Bowling Scorecard' project above demonstrates some complex logic in the scorecard.js and frame.js files (to allow for strike / spare bonuses to be added) but my tests follow a very clear and logical progression in complexity.
+- I've gained invaluable experience in agile methodologies during engineering projects (stand up meetings, sprint planning, retros), allowing us to delegate tasks between the group and have gained great experience of git branching and pull requests.
 
 **Oxwash** (November 2021 to October 2022)  
 Cycle courier

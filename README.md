@@ -5,16 +5,16 @@ I am a full stack developer and natural problem solver who loves finding beauty 
 ## Projects
 [**Acebook**]: https://github.com/lplclaremont/trelloship_of_the_string
 [**MakersBnB**]: https://github.com/lplclaremont/makersbnb
-[**WhateverTheWeather**]: https://github.com/lplclaremont/ep3-raining-mern
-[**Bowling Scorecard**]: https://github.com/lplclaremont/bowling-scorecard
+[**Whatever The Weather**]: https://github.com/lplclaremont/ep3-raining-mern
+[**Oxford Abandoned Bikes**]: https://github.com/lplclaremont/ox-abandoned-bikes
 
 
 | Name                         | Description                                            | Tech used                 |
 | ---------------------------- | ------------------------------------------------------ | -------------------------- |
 | [**Acebook**]                | A 'facebook' type social media app with posts, likes, comments, user icons and a Lord of the Rings theme. | React, Express, Node, MongoDB, Cypress, Jest, CSS   |
 | [**MakersBnB**]              | An 'Airbnb' clone with property listings, adding dates, booking requests and confirming bookings and a mailer function to notify users of activity.                                      | Ruby, Sinatra, RSpec, PostgreSQL, HTML, CSS                       |
-| [**WhateverTheWeather**]     | A single page web app which lets a user select a holiday destination and some activities, then allocates each activity to the most appropriate day based on the weather forecast.                                      | React, Express, Node, Jest, Cypress, CSS                       |
-| [**Bowling Scorecard**]      | Current project which began with a backend which calculates a bowling score for a single game and I am adding a frontend to allow users to fill in each bowling frame and see a running total of their score. | Express, Node, Jest, React |
+| [**Whatever The Weather**]     | A single page web app which lets a user select a holiday destination and some activities, then allocates each activity to the most appropriate day based on the weather forecast.                                      | React, Express, Node, Jest, Cypress, CSS                       |
+| [**Oxford Abandoned Bikes**]      | Current project which helps keep track of abandoned bicycles left in Oxford so they can be potentially reclaimed or reported. I am using this to learn to use Python for a backend and a new framework (Vue.js) for the frontend. Currently it contains CRUD endpoints relating to bicycles and their locations. | Python, Flask, Pytest, PostgreSQL, Vue.js |
 
 ## Experience
 
